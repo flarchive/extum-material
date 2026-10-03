@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of extum/material.** Not for installation: use [Packagist](https://packagist.org/packages/extum/material) or the [upstream repository](https://github.com/Extum/material).
 
-**0** versions archived · Latest: [`1.0.0-beta.2`](https://github.com/flarchive/extum-material/tree/archive/v1.0.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta-7`
+**2** versions archived · Latest: [`1.0.0-beta.2`](https://github.com/flarchive/extum-material/tree/archive/v1.0.0-beta.2) · License: `MIT` · Flarum: `^0.1.0-beta-7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0-beta.1` | 2018-07-28 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/extum-material/tree/archive/v1.0.0-beta.1) |
+| `1.0.0-beta.2` | 2018-08-01 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/extum-material/tree/archive/v1.0.0-beta.2) |
 
 Catalog entry: [packages/extum-material.json](https://github.com/flarchive/archive-index/blob/main/packages/extum-material.json)
 
